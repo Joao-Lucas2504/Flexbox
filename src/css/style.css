@@ -1,0 +1,14 @@
+.container{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap-reverse;
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(83, 83, 172);
+    border: 1px solid black;
+    box-shadow: 10px 10px 10px rgb(44, 52, 75);
+}
